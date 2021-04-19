@@ -5,6 +5,8 @@ You, a discriminating Discord user, have an important schedule to keep to.
 - Wednesday is [Wednesday, My Dudes](https://www.youtube.com/watch?v=du-TY1GUFGk)
 - Thursday is [Out of Touch Thursday](https://knowyourmeme.com/memes/out-of-touch-thursday)
 - Friday is [Flat Fuck Friday](https://knowyourmeme.com/memes/flat-fuck-friday)
+- Christmas
+- [September 21st](https://www.youtube.com/watch?v=CG7YHFT4hjw)
 
 And probably many more.
 

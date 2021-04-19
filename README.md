@@ -16,7 +16,7 @@ This microservice will post Discord Webhook messages on a regular schedule, acco
 
 ## Use
 
-download the executable, or compile it yourself.
+[download the executable](https://github.com/mcpar-land/discord-cron-poster/releases), or compile it yourself.
 
 Create a file called `config.json` in the same directory as the executable. Here's an example:
 
